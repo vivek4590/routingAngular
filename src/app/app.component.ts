@@ -13,6 +13,7 @@ import { Component } from '@angular/core';
     <router-outlet></router-outlet>
   `,
   styles: []
+  
 })
 export class AppComponent {
   title = 'Routing & Navigation';
